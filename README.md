@@ -3,8 +3,25 @@
 ## GitHub Links
 
 Repository: https://github.com/Boyd212/Portfolio-React
-Deployment: 
+Deployment: https://boyd212.github.io/Portfolio-React/
 
+## Description
+
+A professional portfolio application using React, featuring a Header, Footer, Contact Info and Resume download.
+
+## Install
+
+Run command "npm install" in the terminal of your choice.  *You may also have to run command "npm audit fix --force" to update a dependency.
+Run command "npm run build" to initialize the application.
+Run command "npm run start" to begin.  The page should open automatically.  If it does not, open a browser and navigate to localhost port 3000"
+
+## Motivation
+
+A sleek, polished UI for veiwing my portfolio and projects using React.
+
+## Contact
+
+email: matthewfive.30@gmail.com
 ===================================================================================
 # 20 React: React Portfolio
 
